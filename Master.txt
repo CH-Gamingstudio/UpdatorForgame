@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/Crimson King's/www/data/Map005.json https://raw.githubusercontent.com/CH-Gamingstudio/UpdatorForgame/master/Map005.json
+/www/data/Map005.json https://raw.githubusercontent.com/CH-Gamingstudio/UpdatorForgame/master/Map005.json
 <End of Version>
