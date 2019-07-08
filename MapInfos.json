@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"CK001","order":1,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":2,"expanded":false,"name":"Craft","order":9,"parentId":14,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":3,"expanded":false,"name":"CK002-2","order":12,"parentId":4,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":4,"expanded":false,"name":"CK002","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":637.3333333333334},
+{"id":5,"expanded":false,"name":"Quest Hobb","order":10,"parentId":14,"scrollX":1786.909090909091,"scrollY":1042.909090909091},
+{"id":6,"expanded":true,"name":"CK003","order":13,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1042.6666666666667},
+{"id":7,"expanded":false,"name":"Item Shop","order":5,"parentId":14,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":8,"expanded":false,"name":"Weapon Shop","order":6,"parentId":14,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":9,"expanded":false,"name":"Armor Shop","order":7,"parentId":14,"scrollX":819,"scrollY":478},
+{"id":10,"expanded":false,"name":"CK003-2","order":14,"parentId":6,"scrollX":1081.3333333333333,"scrollY":640},
+{"id":11,"expanded":false,"name":"Bar","order":8,"parentId":14,"scrollX":819,"scrollY":478},
+null,
+null,
+{"id":14,"expanded":true,"name":"CK001","order":2,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1117.0909090909092},
+{"id":15,"expanded":false,"name":"Inn 1F","order":3,"parentId":14,"scrollX":832,"scrollY":640},
+{"id":16,"expanded":false,"name":"Inn 2F","order":4,"parentId":15,"scrollX":1092,"scrollY":641.3333333333334}
+]
