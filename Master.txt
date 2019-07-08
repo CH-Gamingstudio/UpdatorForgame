@@ -1,7 +1,4 @@
 
 <Version: 1.01>
-/data/Map005.json https://raw.githubusercontent.com/CH-Gamingstudio/UpdatorForgame/master/Map005.json
-/data/Animations.json https://raw.githubusercontent.com/CH-Gamingstudio/UpdatorForgame/master/Animations.json
-/data/Armors.json https://raw.githubusercontent.com/CH-Gamingstudio/UpdatorForgame/master/Armors.json
-/data/Actors.json https://raw.githubusercontent.com/CH-Gamingstudio/UpdatorForgame/master/Actors.json
+/Crimson King's/data.zip https://github.com/CH-Gamingstudio/UpdatorForgame/blob/master/data.zip
 <End of Version>
